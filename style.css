@@ -311,13 +311,11 @@ header{
     }
 .logo {
         font-weight: 500;
-        font-size: 0.7em;
-
+        font-size: 0.6em;
     }
     .navigation a {
         font-weight: 500;
-        font-size: .5em;
-
+        font-size: .4.5em;
         padding-left: .5px;
     }
        .main {
@@ -325,20 +323,20 @@ header{
     }
     .main h2 {
         font-size: 1.1em;
-        font-weight: 200;
+        font-weight: 400;
        }
        .main h2 {
         font-size: 1em;
-        font-weight: 150;
+        font-weight: 400;
     }
     .main h2 span {
         margin-top: 5px;
         font-size: 1.7em;
-        font-weight: 300;
+        font-weight: 400;
     }
     .main h3 {
         font-size: 1.2em;
-        font-weight: 200;
+        font-weight: 300;
         letter-spacing: 0.6px;
         margin-top: 5px;
         margin-bottom: 8px;
