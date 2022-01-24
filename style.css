@@ -307,16 +307,18 @@ header{
 
 @media (max-width:641px){
     header {
-        padding: 10px 50px;  
+        padding: 2px 40px; 
     }
 .logo {
-        font-weight: 460;
-        font-size: 0.9em;
+        font-weight: 500;
+        font-size: 0.7em;
+
     }
     .navigation a {
-        font-weight: 400;
-        font-size: .7em;
-        padding-left: 1px;
+        font-weight: 500;
+        font-size: .5em;
+
+        padding-left: .5px;
     }
        .main {
         padding: 30px 70px;
